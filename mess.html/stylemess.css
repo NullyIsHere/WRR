@@ -16,7 +16,7 @@
   font-family: 'Manrope', sans-serif;
   display: inline-block;
   vertical-align: middle;
-  color: black;
+  color: orange;
   letter-spacing: 2px;
   font-size: 54px;
 }
@@ -26,20 +26,20 @@
   vertical-align: middle;
   width: 3px;
   height: 50px;
-  background-color: black;
+  background-color: midnightblue;
   animation: blink .75s step-end infinite;
 }
 
 #announcement-container {
   font-family: 'Lexend', sans-serif;
-  color: white;
+  color: black;
   font-size: 24px;
   margin-top: 20px;
 }
 
 #last-announcement {
   font-family: 'Arvo', serif;
-  color: white;
+  color: black;
   font-size: 18px;
   margin-top: 10px;
 }

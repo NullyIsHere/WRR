@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Josefin+Sans:ital@1&family=Lexend&family=Manrope:wght@600&display=swap');
+
+#container {
+  text-align: center;
+}
+
+#mess {
+  font-family: 'Lexend', sans-serif;
+}
+
+#when {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#text {
+  font-family: 'Manrope', sans-serif;
+  display: inline-block;
+  vertical-align: middle;
+  color: black;
+  letter-spacing: 2px;
+  font-size: 54px;
+}
+
+#cursor {
+  display: inline-block;
+  vertical-align: middle;
+  width: 3px;
+  height: 50px;
+  background-color: black;
+  animation: blink .75s step-end infinite;
+}
+
+#announcement-container {
+  font-family: 'Lexend', sans-serif;
+  color: black;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+#last-announcement {
+  font-family: 'Arvo', serif;
+  color: black;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+@keyframes blink {
+
+  from,
+  to {
+    background-color: transparent;
+  }
+
+  50% {
+    background-color: black;
+  }
+}

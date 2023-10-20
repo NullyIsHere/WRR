@@ -1,0 +1,18 @@
+[
+  "T'envio tot el meu suport",
+  "Segueix lluitant, no et rendeixis",
+  "Ets més fort del que penses",
+  "La teva força és com un foc",
+  "Fes-ho amb passió o no ho facis",
+  "Cada dia és una nova oportunitat",
+  "Ets capaç de conquerir el món",
+  "Recorda: ets increïble tal com ets",
+  "La vida és bella, gaudeix-la plenament",
+  "La felicitat està en les petites coses",
+  "No estàs sol, sempre hi ha algú per tu",
+  "Cada dificultat és una oportunitat de créixer",
+  "Estàs fent un gran progrés, segueix endavant",
+  "El teu somriure il·lumina el dia de molta gent",
+  "Tu ets únic i especial",
+  "Confia en tu mateix, ets formidable"
+]

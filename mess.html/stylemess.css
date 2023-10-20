@@ -32,14 +32,14 @@
 
 #announcement-container {
   font-family: 'Lexend', sans-serif;
-  color: black;
+  color: white;
   font-size: 24px;
   margin-top: 20px;
 }
 
 #last-announcement {
   font-family: 'Arvo', serif;
-  color: black;
+  color: white;
   font-size: 18px;
   margin-top: 10px;
 }
